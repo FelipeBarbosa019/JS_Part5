@@ -13,37 +13,37 @@ btn.addEventListener ("click", function(e) {
     else {
         switch (num){
             case 0:
-                text.textContent = 'O numúmero digitado foi zero.'
+                text.textContent = 'O número digitado foi zero.'
                 break
             case 1:
-                text.textContent = 'O numúmero digitado foi um.'
+                text.textContent = 'O número digitado foi um.'
                 break
             case 2:
-                text.textContent = 'O numúmero digitado foi dois.'
+                text.textContent = 'O número digitado foi dois.'
                 break
             case 3:
                 text.textContent = 'O numúmero digitado foi três.'
                 break
             case 4:
-                text.textContent = 'O numúmero digitado foi quatro.'
+                text.textContent = 'O número digitado foi quatro.'
                 break
             case 5:
-                text.textContent = 'O numúmero digitado foi cinco.'
+                text.textContent = 'O número digitado foi cinco.'
                 break
             case 6:
-                text.textContent = 'O numúmero digitado foi seis.'
+                text.textContent = 'O número digitado foi seis.'
                 break
             case 7:
-                text.textContent = 'O numúmero digitado foi sete.'
+                text.textContent = 'O número digitado foi sete.'
                 break
             case 8:
-                text.textContent = 'O numúmero digitado foi oito.'
+                text.textContent = 'O número digitado foi oito.'
                 break
             case 9:
-                text.textContent = 'O numúmero digitado foi nove.'
+                text.textContent = 'O número digitado foi nove.'
                 break
             case 10:
-                text.textContent = 'O numúmero digitado foi dez.'
+                text.textContent = 'O número digitado foi dez.'
         }
     }
 });
